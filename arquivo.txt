@@ -1,0 +1,2 @@
+NPM é um gerenciador de pacotes do NodeJS, onde possui um conjunto de comandos que podem ser utlizados para controlar o ambiente de desenvolvimento, como instalar pacotes e removê-los.
+Utilizei o módulo fs para escrever um arquivo txt com o conteudo da variável "conteudo" através do comando "fs.writeFile" e inicializei este arquivo (index.js) com o comando "npm run start" no terminal, esse script está localizado no arquivo "package.json".
